@@ -1,5 +1,5 @@
 import java.util.Scanner;
-/* Receba a quantidade de alimento em quilos. Calcule e mostre quantos dias durará esse alimento*sabendo que a pessoa consome 50g ao dia.
+/* Receba 2 ângulos de um triângulo. Calcule e mostre o valor do 3º ângulo.
  * @Autor: Raphael Dinelli
  * Data da compilação: 06/08/2016
 */
