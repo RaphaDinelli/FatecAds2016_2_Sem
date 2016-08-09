@@ -1,7 +1,6 @@
 import java.util.Scanner;
 /* Receba 2 valores inteiros. 
  * Calcule e mostre o resultado da diferença do maior pelo menos valor.
- * Receber o tempo de percurso e a velocidade média.
  * @Autor: Raphael Dinelli
  * Data da compilação: 06/08/2016
 */
