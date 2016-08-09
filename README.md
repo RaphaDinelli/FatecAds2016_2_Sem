@@ -104,3 +104,4 @@ CAIXA ELETRÔNICO
 1.8.2. A média dos saques;
 1.8.3. Valor total dos saques;
 1.8.4. Valor das sobras dos caixas.
+.
