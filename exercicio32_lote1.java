@@ -1,5 +1,5 @@
 import java.util.Scanner;
-/* Calcule e mostre o quadrado dos números entre 10 e 150.
+/* Receba um número inteiro. Calcule e mostre o seu fatorial.
  * @Autor: Raphael Dinelli
  * Data da compilação: 06/08/2016
 */
