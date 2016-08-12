@@ -8,8 +8,7 @@ import java.util.Scanner;
 class Main {
   public static void main(String[] args) {
     int num1, num2, resultadoSomatoriaImpar;
-    int maior, menor, i;
-    
+
     resultadoSomatoriaImpar = 0;
     
 	System.out.println("Digite um número inteiro: ");
