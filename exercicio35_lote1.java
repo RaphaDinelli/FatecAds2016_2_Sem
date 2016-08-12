@@ -8,7 +8,7 @@ import java.util.Scanner;
 class Main {
   public static void main(String[] args) {
     int num1, num2, resultadoSomatoriaImpar;
-
+    
     resultadoSomatoriaImpar = 0;
     
 	System.out.println("Digite um número inteiro: ");
@@ -20,11 +20,23 @@ class Main {
     num2 = inNum2.nextInt();
     
     if (num1 > num2){
-    	for(i=num2; i < num1; i++){
+    	for(int i=num2; i < num1; i++){
     		if(i%2>0){
     			resultadoSomatoriaImpar += i;
     		};
     	};
+    }
+    else{
+    	for(int i=num1; i < num2; i++){
+    		if(i%2>0){
+    			resultadoSomatoriaImpar += i;
+    		};
+    	};	
+    };
+    System.out.println("Resultado da somatória é: " + resultadoSomatoriaImpar);
+  };
+};
+  
     }
     else{
     	for(i=num1; i < num2; i++){
