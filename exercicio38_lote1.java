@@ -13,7 +13,7 @@ class Main {
     menor = -1;
     contador= 1;
     
-    while (contador <= 7){
+    while (contador <= 100){
 		System.out.println("Digite um número real: ");
 	    Scanner inNumeroDeEntrada = new Scanner(System.in);
 	    numeroDeEntrada = inNumeroDeEntrada.nextDouble();
