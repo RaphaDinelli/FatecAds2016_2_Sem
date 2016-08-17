@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
-/* Receba 2 números inteiros. Verifique e mostre todos os números primos
- * existentes entre eles.
+/* Mostre todas as possibilidades de 2 dados de forma que a soma tenha como
+ * resultado 7.
  * @Autor: Raphael Dinelli
  * Data da compilação: 06/08/2016
 */
