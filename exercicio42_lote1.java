@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
-/* Receba 2 números inteiros. Verifique e mostre todos os números primos
- * existentes entre eles.
+/* Calcule e mostre a série 1 + 2/3 + 3/5 + ... + 50/99
  * @Autor: Raphael Dinelli
  * Data da compilação: 06/08/2016
 */
