@@ -6,13 +6,12 @@ import java.util.Scanner;
 
 class Main {
   public static void main(String[] args) {
-    int numero, fat, i;
-    i = 0;
+    int numero, fat;
     fat = 1;
-	System.out.println("Digite um número inteiro: ");
+    System.out.println("Digite um número inteiro: ");
     Scanner inNumero = new Scanner(System.in);
     numero = inNumero.nextInt();
-	for(i = 1; i < numero; i ++ ){
+	for(int i = 1; i < numero; i ++ ){
 		fat *= i + 1;
 		System.out.println("Fatorial de " + numero + " é : " + fat);
 	}
